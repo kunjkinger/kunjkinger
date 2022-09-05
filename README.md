@@ -1,4 +1,4 @@
-Machine Learning all small projects and main projects included, in branches all other learnings as well which includes time series, nlp, reinforcement, graphical modeling
+Machine Learning which includes time series, nlp, reinforcement, graphical modeling.
 
 
 nomral python cheatsheets and important concepts
