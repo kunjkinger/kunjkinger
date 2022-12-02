@@ -1,13 +1,13 @@
 Machine Learning which includes time series, nlp, reinforcement, graphical modeling.
 
 
+spark basics
+
+
 nomral python cheatsheets and important concepts
 
 
 tensorflow repository consists tensortflow cheatsheet and concepts of tensorflow withprojects to understand better
-
-
-spark basics
 
 
 data structrues implementations 
